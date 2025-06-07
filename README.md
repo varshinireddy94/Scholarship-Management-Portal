@@ -3,7 +3,7 @@
 A web-based platform built using React that helps students discover and apply for scholarships suited to their academic background, location, and interests. The application simplifies the process by aggregating scholarship data from multiple sources and displaying it through an intuitive user interface with powerful filtering options.
 
 
-## 🔍 Features
+## Features
 
 - 🔎 Search scholarships by category, location, or eligibility  
 - 📄 View detailed descriptions, deadlines, and links to apply  
@@ -12,7 +12,7 @@ A web-based platform built using React that helps students discover and apply fo
 - 🔁 Dynamic routing with React Router
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, Material-UI, Bootstrap  
 - **State Management**: React Hooks  
@@ -32,7 +32,6 @@ npm install
 npm start
 
 
----
 open http://localhost:3000 to view it in your browser.
 
 
