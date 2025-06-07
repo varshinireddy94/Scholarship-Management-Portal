@@ -44,9 +44,9 @@ Scholarship for Undergraduate Students in field of Basic-Science/Medical/Enginee
 <p>  
 Timeline:
 </p>
-<b>18th  Aug 2019</b>
+<b>18th  Aug 2025</b>
 to 
-<b>18th Sep 2019</b> 
+<b>18th Sep 2025</b> 
     
             </div>
             <Button variant="contained" color="primary" onClick={this.showResults} style={{marginTop:10}}>View Results</Button>
