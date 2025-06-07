@@ -15,26 +15,27 @@ Routing: React Router
 HTTP Client: Axios
 Styling: Bootstrap, custom CSS
 
-Getting Started
-# Clone the repository
+#Getting Started
+Clone the repository :
 git clone https://github.com/yourusername/scholarship-finder.git
-# Navigate into the directory
+Navigate into the directory :
 cd scholarship-finder
-# Install dependencies
+Install dependencies :
 npm install
-# Start the development server
+Start the development server: 
 npm start
 
 Open http://localhost:3000 to view it in your browser.
 
- Folder Structure
+ #Folder Structure
 css
 Copy
 Edit
-/public          → Static files
+  /public          → Static files
 /src             → React components and pages
   ├── components → Reusable components (e.g. Header, Footer)
   ├── pages      → Functional screens (Home, Scholarship Details)
   ├── App.js     → Main app entry
+
 
 
