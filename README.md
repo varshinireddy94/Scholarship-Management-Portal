@@ -5,11 +5,11 @@ A web-based platform built using React that helps students discover and apply fo
 
 ## Features
 
-- 🔎 Search scholarships by category, location, or eligibility  
-- 📄 View detailed descriptions, deadlines, and links to apply  
-- 📊 Filter results by amount, type, and deadlines  
-- 🌐 Clean UI with Material-UI and Bootstrap  
-- 🔁 Dynamic routing with React Router
+-  Search scholarships by category, location, or eligibility  
+-  View detailed descriptions, deadlines, and links to apply  
+-  Filter results by amount, type, and deadlines  
+-  Clean UI with Material-UI and Bootstrap  
+-  Dynamic routing with React Router
 
 
 ## Tech Stack
@@ -21,14 +21,18 @@ A web-based platform built using React that helps students discover and apply fo
 - **Styling**: Bootstrap, custom CSS
 
 
-## 🚀 Getting Started
-
-### Clone the repository
+##  Getting Started
 
 ```bash
 git clone https://github.com/yourusername/scholarship-finder.git
+
+```bash
 cd scholarship-finder
+
+```bash
 npm install
+
+```bash
 npm start
 
 
