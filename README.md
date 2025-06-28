@@ -22,18 +22,18 @@ A web-based platform built using React that helps students discover and apply fo
 
 
 ##  Getting Started
-
-```bash
-git clone https://github.com/yourusername/scholarship-finder.git
-
-```bash
-cd scholarship-finder
-
-```bash
-npm install
-
-```bash
-npm start
+1.
+    ```bash
+       git clone https://github.com/yourusername/scholarship-finder.git
+2.
+     ```bash
+        cd scholarship-finder
+3.
+     ```bash
+        npm install
+4.
+      ```bash
+         npm start
 
 
 open http://localhost:3000 to view it in your browser.
